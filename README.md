@@ -9,7 +9,7 @@ Upload PDF or DOCX documents and let AI extract meaningful insights including do
 ## 🌐 Live Demo
 
 Frontend:
-https://vineela959.github.io/ai-document-intelligence-system/
+https://karthikeya-69.github.io/ai-document-intelligence-system/
 
 Backend API:
 https://ai-document-intelligence-system-255u.onrender.com/docs
